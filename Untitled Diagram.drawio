@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T15:52:57.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="8zWamp-NhjFxCOY3UaNK" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-18T16:03:21.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LAbECxybWDjxvmas3r2V" version="21.7.5" type="github">
   <diagram name="Page-1" id="s91PgzaygFrKbW3nwQNJ">
     <mxGraphModel dx="794" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,6 +34,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="380" as="sourcePoint" />
             <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-24" value="Customer and&lt;br&gt;Order Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b3XS1RP67I5z88q5Yvya-11">
+          <mxGeometry x="0.0625" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b3XS1RP67I5z88q5Yvya-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=0.013;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="b3XS1RP67I5z88q5Yvya-3" target="b3XS1RP67I5z88q5Yvya-5">
@@ -80,6 +85,32 @@
         <mxCell id="b3XS1RP67I5z88q5Yvya-19" value="Accept&amp;nbsp; or&lt;br&gt;reject" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b3XS1RP67I5z88q5Yvya-17">
           <mxGeometry x="-0.6" y="5" relative="1" as="geometry">
             <mxPoint x="-5" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-20" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3XS1RP67I5z88q5Yvya-6" target="b3XS1RP67I5z88q5Yvya-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="600" as="sourcePoint" />
+            <mxPoint x="410" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="620" />
+              <mxPoint x="610" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-21" value="Confirmation and&lt;br&gt;Time of Delivery" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b3XS1RP67I5z88q5Yvya-20">
+          <mxGeometry x="-0.0416" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="b3XS1RP67I5z88q5Yvya-6" target="b3XS1RP67I5z88q5Yvya-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="460" as="sourcePoint" />
+            <mxPoint x="270" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-23" value="Order &lt;br&gt;Information" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b3XS1RP67I5z88q5Yvya-22">
+          <mxGeometry x="0.0275" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
