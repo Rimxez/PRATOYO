@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-18T16:03:21.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="LAbECxybWDjxvmas3r2V" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T02:00:21.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z8le0jKQBIJaP5tbEzHa" version="21.7.5" type="github">
   <diagram name="Page-1" id="s91PgzaygFrKbW3nwQNJ">
     <mxGraphModel dx="794" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,6 +112,12 @@
           <mxGeometry x="0.0275" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-26" value="Delivery Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b3XS1RP67I5z88q5Yvya-27" value="Cashier" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
